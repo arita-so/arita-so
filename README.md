@@ -42,14 +42,15 @@ CODE BELOW
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arita-so&show_icons=true&locale=en&layout=compact" alt="arita-so" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arita-so&show_icons=true&locale=en" alt="arita-so" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arita-so&show_icons=true&locale=en" alt="arita-so" /></p> -->
+
+[![AnaRita's's github stats](https://github-readme-stats.vercel.app/api?username=arita-so&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arita-so&" alt="arita-so" /></p>
 
 
 <!-- 
 GitHub stats from https://github.com/anuraghazra/github-readme-stats based on this video https://www.youtube.com/watch?v=DWFs6aqknqw&t=386s 
-CODE BELOW
--->
-
+CODE BELOW --- line 47
 [![AnaRita's's github stats](https://github-readme-stats.vercel.app/api?username=arita-so&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+-->

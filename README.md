@@ -29,7 +29,7 @@ CODE BELOW
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arita-so&label=Profile%20views&color=0e75b6&style=flat" alt="arita-so" /> </p><br/>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and UX Design**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 

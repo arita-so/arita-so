@@ -27,7 +27,7 @@ CODE BELOW
 <h3 align="center">A passionate programming learner from Portugal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arita-so&label=Profile%20views&color=0e75b6&style=flat" alt="arita-so" /> </p><br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arita-so&label=Profile%20views&color=ff69b4&style=flat" alt="arita-so" /> </p><br/>
 
 - 🌱 I’m currently learning **Python and UX Design**
 

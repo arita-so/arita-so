@@ -33,7 +33,7 @@ CODE BELOW
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- ⚡ Fun fact **I love Harry Potter and Bridgerton**
+- ⚡ Fun fact **I love Harry Potter and Top Gun: Maverick - Glen Powell and Miles Teller WOW**
 
 
 <br/>

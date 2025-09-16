@@ -48,6 +48,15 @@ CODE BELOW
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arita-so&" alt="arita-so" /></p>
 
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+
+<!--   
+https://github.com/pasqualerossi/pasqualerossi/blob/main/README.md?plain=1
+It's at the end of pasqualerossi/READ.md, 
+I decided to use it because it's very cool!!! --- CODE in line 51, also seen below
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
+-->
+
 
 <!-- 
 GitHub stats from https://github.com/anuraghazra/github-readme-stats based on this video https://www.youtube.com/watch?v=DWFs6aqknqw&t=386s 
